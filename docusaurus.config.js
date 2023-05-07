@@ -98,9 +98,9 @@ const config = {
       },
       navbar: {
         hideOnScroll: false,
-        title: "Paweł Kosiec",
+        title: "GRUDOV",
         logo: {
-          alt: "Paweł Kosiec Logo",
+          alt: "GRUDOV Logo",
           src: "img/logo.svg",
           srcDark: "img/logo-white.svg",
         },
@@ -114,36 +114,19 @@ const config = {
         style: "light",
         links: [
           {
-            title: "Connect",
+            title: "Связь",
             items: [
               {
-                label: "Email me",
-                href: "mailto:pawel@kosiec.dev",
+                label: "Telegram",
+                href: "https://grudovoff.t.me",
               },
               {
-                label: "LinkedIn",
-                href: "https://www.linkedin.com/in/pkosiec",
+                label: "VK",
+                href: "https://vk.com/grudovoff",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/pkosiec",
-              },
-            ],
-          },
-          {
-            title: "Discover",
-            items: [
-              {
-                label: "About me",
-                to: "/",
-              },
-              {
-                label: "Projects",
-                to: "/projects",
-              },
-              {
-                label: "Talks",
-                to: "/talks",
+                label: "Email",
+                href: "mailto:roma@grudov.ru",
               },
             ],
           },

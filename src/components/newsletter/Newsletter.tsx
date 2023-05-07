@@ -35,8 +35,8 @@ export const Newsletter: FunctionComponent<NewsletterProps> = ({ data }) => {
     <div className={styles.newsWrapper}>
       <div className="container padding-vert--lg">
         <NewsIcon className={styles.newsIcon} />
-        <h2>Subscribe to the Newsletter</h2>
-        <p>Get my latest content by email. Unsubscribe at any time.</p>
+        <h2>Подпишитесь на рассылочку</h2>
+        <p>Получение последнего контента на электропочту. Отписаться можно в любое время.</p>
 
         <form
           action={action}
@@ -46,11 +46,11 @@ export const Newsletter: FunctionComponent<NewsletterProps> = ({ data }) => {
         >
           <input
             name={emailFieldName}
-            placeholder="Your email"
+            placeholder="Ваша почта"
             type="email"
             required
           />
-          <input name={firstNameFieldName} placeholder="Your first name" />
+          <input name={firstNameFieldName} placeholder="Ваше имя" />
           <div
             style={{ position: "absolute", left: "-5000px" }}
             aria-hidden="true"
@@ -67,17 +67,17 @@ export const Newsletter: FunctionComponent<NewsletterProps> = ({ data }) => {
             name={submitButtonName}
             className="button button--primary"
           >
-            Subscribe
+            Подписаться
           </button>
         </form>
         <div className={styles.formFooter}>
-          By subscribing, you agree with {serviceName}’s{" "}
+        Подписываясь на рассылку, вы соглашаетесь с {serviceName}’s{" "}
           <a target="_blank" href={tosURL}>
-            Terms of Service
+          Условиями предоставления услуг
           </a>{" "}
-          and{" "}
+          и{" "}
           <a target="_blank" href={privacyPolicyURL}>
-            Privacy Policy
+          Политикой конфиденциальности
           </a>
           .
         </div>
