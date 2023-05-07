@@ -148,7 +148,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012-${new Date().getFullYear()} Paweł Kosiec.`,
+        copyright: `Copyright © 2012-${new Date().getFullYear()} GRUDOVOFF`,
       },
       algolia: {
         appId: "5DLGGOZ8KA",

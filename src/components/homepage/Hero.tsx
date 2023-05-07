@@ -10,10 +10,10 @@ export const Hero: FunctionComponent = () => {
         <h1 className={clsx("hero__title", styles.title)}>
           Привет. Я <span className={styles.highlighted}>Роман Грудов</span>,
           <br />
-          редактор LIVE GAMING
+          редактор LIVE GAMING.
         </h1>
         <p className={clsx("hero__subtitle", styles.subtitle)}>
-          СММщик-программист, интересующийся всем подряд.
+          SMMщик-программист, интересующийся всем подряд.
         </p>
       </div>
     </header>
