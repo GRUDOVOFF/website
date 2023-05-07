@@ -36,8 +36,8 @@ const config = {
   },
 
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "ru",
+    locales: ["ru"],
   },
   plugins: [
     "docusaurus-plugin-sass",
