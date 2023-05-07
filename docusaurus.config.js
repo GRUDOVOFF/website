@@ -8,17 +8,17 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Paweł Kosiec, Full-stack Cloud Developer",
+  title: "GRUDOV",
   tagline:
     "Software engineer interested in personal growth and tech trends. Cloud-native and open-source enthusiast.",
-  url: "https://kosiec.dev",
+  url: "https://grudov.ru",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config
-  organizationName: "pkosiec",
+  organizationName: "GRUDOVOFF",
   projectName: "website",
 
   customFields: {
@@ -63,7 +63,7 @@ const config = {
           editUrl: "https://github.com/pkosiec/website/tree/main/",
           feedOptions: {
             type: "all",
-            copyright: `Copyright © ${new Date().getFullYear()} Paweł Kosiec`,
+            copyright: `Copyright © ${new Date().getFullYear()} GRUDOVOFF`,
           },
         },
         theme: {
@@ -144,23 +144,6 @@ const config = {
               {
                 label: "Talks",
                 to: "/talks",
-              },
-            ],
-          },
-          {
-            title: "Blog feed",
-            items: [
-              {
-                label: "RSS",
-                to: "/blog/rss.xml",
-              },
-              {
-                label: "Atom",
-                to: "/blog/atom.xml",
-              },
-              {
-                label: "JSON",
-                to: "/blog/feed.json",
               },
             ],
           },
