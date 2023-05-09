@@ -105,9 +105,8 @@ const config = {
           srcDark: "img/logo-white.svg",
         },
         items: [
-          { to: "/blog", label: "Blog", position: "left" },
-          { to: "/projects", label: "Projects", position: "left" },
-          { to: "/talks", label: "Talks", position: "left" },
+          { to: "/blog", label: "Блог", position: "left" },
+          { to: "/projects", label: "Проекты", position: "left" },
         ],
       },
       footer: {
