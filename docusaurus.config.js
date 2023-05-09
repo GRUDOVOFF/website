@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012-${new Date().getFullYear()} GRUDOVOFF`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} GRUDOVOFF`,
       },
       algolia: {
         appId: "5DLGGOZ8KA",
