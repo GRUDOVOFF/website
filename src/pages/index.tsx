@@ -16,7 +16,7 @@ const socialLinks: SocialLinkData[] = [
     name: "VK",
     url: "https://vk.com/grudovoff",
     svg: (
-      <svg role="img" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>VK</title>
         <path d="M203 950 c-122 -19 -175 -79 -194 -220 -14 -100 -6 -519 10 -571 28
 -91 83 -133 196 -150 88 -14 547 -6 598 10 54 17 103 64 124 119 16 42 18 81
