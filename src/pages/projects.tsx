@@ -39,7 +39,7 @@ const projects: ProjectData[] = [
     description: "Самое популярное новостное сообщество по SAMP проекту Trinity GTA.",
     url: "https://vk.com/free_trinity",
     image: require(`${assetsDir}/freetrinity.png`),
-    role: "Бывший владелец",
+    role: "Основатель",
   },
 ];
 
