@@ -40,13 +40,6 @@ const config = {
     locales: ["ru"],
   },
   plugins: [
-    '@docusaurus/plugin-sitemap',
-    {
-      changefreq: 'weekly',
-      priority: 0.5,
-      ignorePatterns: ['/tags/**'],
-      filename: 'sitemap.xml',
-    },
     "docusaurus-plugin-sass",
     [
       "@docusaurus/plugin-ideal-image",
