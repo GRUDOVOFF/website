@@ -133,9 +133,9 @@ const config = {
         copyright: `Copyright © 2022-${new Date().getFullYear()} GRUDOVOFF`,
       },
       algolia: {
-        appId: "5DLGGOZ8KA",
-        apiKey: "67ab853aa6285e51112a649d3cb51928",
-        indexName: "kosiec",
+        appId: "C35TFMPN6B",
+        apiKey: "0d2fb31bf10b572dece5a07656735cfb",
+        indexName: "grudov",
       },
       prism: {
         theme: lightCodeTheme,
