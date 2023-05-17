@@ -6,19 +6,19 @@ import { Project, ProjectData } from "../components/projects/Project";
 const assetsDir = "./assets/projects";
 const projects: ProjectData[] = [
   {
-    title: "Botkube",
+    title: "LIVE SAMP",
     description:
-      "Monitor and act on your Kubernetes cluster from your favorite chat platforms.",
-    url: "https://botkube.io/",
-    image: require(`${assetsDir}/botkube.png`),
-    role: "Maintainer",
+      "Крупнейший обозреватель мультиплеерной GTA-индустрии.",
+    url: "https://vk.com/livesamp",
+    image: require(`${assetsDir}/livesamp.png`),
+    role: "Главный редактор",
   },
   {
-    title: "Capact",
-    description: "A unified way to manage applications and infrastructure.",
-    url: "https://capact.io",
-    image: require(`${assetsDir}/capact.png`),
-    role: "Maintainer",
+    title: "GAME WORK",
+    description: "Автоматизированная фриланс биржа GTA",
+    url: "https://vk.com/gamewk",
+    image: require(`${assetsDir}/gamework.png`),
+    role: "Администратор",
   },
   {
     title: "Mongo Seeding",
@@ -43,8 +43,8 @@ const projects: ProjectData[] = [
   },
 ];
 
-const title = "Projects";
-const description = "Featured projects I was/am involved in.";
+const title = "Проекты";
+const description = "Тут я работаю/работал.";
 
 export default function Projects(): JSX.Element {
   return (
