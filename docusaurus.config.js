@@ -40,6 +40,9 @@ const config = {
     locales: ["ru"],
   },
   plugins: [
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '90796861',
+    }],
     "docusaurus-plugin-sass",
     [
       "@docusaurus/plugin-ideal-image",
