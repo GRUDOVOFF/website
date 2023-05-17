@@ -60,7 +60,7 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/pkosiec/website/tree/main/",
+          blogSidebarTitle: 'Другие посты',
           feedOptions: {
             type: "all",
             copyright: `Copyright © ${new Date().getFullYear()} GRUDOVOFF`,
