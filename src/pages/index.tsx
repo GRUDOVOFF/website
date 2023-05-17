@@ -85,7 +85,7 @@ m72 -317 c21 -130 55 -197 115 -228 l30 -16 0 141 0 141 53 -3 52 -3 3 -77 c2
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title="Home" description={siteConfig.tagline}>
+    <Layout title="Роман Грудов" description={siteConfig.tagline}>
       <Hero />
       <main>
         <div className="container padding-vert">

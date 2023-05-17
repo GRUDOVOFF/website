@@ -61,6 +61,7 @@ const config = {
         blog: {
           showReadingTime: true,
           blogSidebarTitle: 'Другие посты',
+          blogTitle: 'Блог',
           feedOptions: {
             type: "all",
             copyright: `Copyright © ${new Date().getFullYear()} GRUDOVOFF`,

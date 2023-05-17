@@ -29,7 +29,7 @@ const projects: ProjectData[] = [
   },
   {
     title: "Братья Дюма",
-    description: "Франшиза с десятками сообществ с десятками сообществ по проектам GTA.",
+    description: "Франшиза с десятками сообществ по проектам GTA.",
     url: "https://vk.com/alldumas",
     image: require(`${assetsDir}/dyuma.png`),
     role: "Бывший главный редактор",

@@ -1,7 +1,7 @@
-I&nbsp;write back-end applications in **Go** and modern front-ends using **TypeScript** (**React.js**). I design and implement **GraphQL**, **gRPC** and **REST** APIs.
+Я&nbsp;пишу новости для самого популярного сообщества во **ВКонтактике** под названием **TypeScript** [LIVE SAMP](https://vk.com/livesamp) и горжусь этим.. В 2020 году запустил свой первый паблик по **SAMP** проекту **Trinity GTA**, который через несколько месяцев продал руководству этого же проекта.
 
-I&nbsp;work in a cloud-native environment in the "you build it, you run it" model. Apart from building microservices, I use and extend **Kubernetes**. I am both [Certified Kubernetes Application Developer](https://www.youracclaim.com/badges/4ef650a8-2c5d-48df-bdc7-d7bafdd9e4ec) and [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/32059797-c35c-4c49-bcc3-d27268a530df).
+Интересуюсь&nbsp;программирование и в свободное время пишу говно-код на языке **PHP**. При помощи маломальских знаний автоматизирую процессы и пишу небольшие скрипты для упрощения работы. 
 
-In 2018, I&nbsp;have completed a&nbsp;master's in Computer Science at Silesian University of Technology.
+Помимо этого, ещё улучшаю навыки монтажа, монтируя **ТикТоки**, которые набирают сотни тысяч просмотров. 
 
-I'm open source and cloud-native enthusiast. That's why I'm a&nbsp;co-organizer of the&nbsp;[Gophers Silesia](https://www.meetup.com/GophersSilesia) meetup, which is a&nbsp;local community interested in Go & cloud-native topics.
+Мечтаю выбраться из [Иркутской области](https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C), открыть кофейню и проект по упрощению работы SMMщикам, ну и посадить дерево.
