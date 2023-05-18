@@ -10,7 +10,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "GRUDOV",
   tagline:
-    "Software engineer interested in personal growth and tech trends. Cloud-native and open-source enthusiast.",
+    "SMMщик-программист, интересующийся всем подряд.",
   url: "https://grudov.ru",
   baseUrl: "/",
   onBrokenLinks: "throw",
