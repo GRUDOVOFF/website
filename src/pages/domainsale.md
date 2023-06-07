@@ -13,9 +13,7 @@ hide_table_of_contents: true
 <details>
   <summary>Toggle me!</summary>
   <div>
-    <div>I own a small number of cool domain names in various zones. Some of them are for sale. The conditions are simple: I will sell the domain to the first person who makes me an offer I cannot refuse.
-
-Send an email with the domain name and a price offer to me at [domains@grudov.ru](mailto:domains@grudov.ru?subject=domainsale), indicating "domainsale" in the subject line.</div>
+    <div>I own a small number of cool domain names in various zones. Some of them are for sale. The conditions are simple: I will sell the domain to the first person who makes me an offer I cannot refuse. Send an email with the domain name and a price offer to me at [domains@grudov.ru](mailto:domains@grudov.ru?subject=domainsale), indicating "domainsale" in the subject line.<div>
     <br/>
     <details>
       <summary>
